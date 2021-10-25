@@ -1,0 +1,221 @@
+2021-10-23 16:53:03,466 INFO LogEx [Test worker] Тест запущен
+2021-10-23 16:53:34,494 INFO LogEx [Test worker] Test started
+2021-10-23 17:16:21,179 INFO LogEx [Test worker] Driver is up
+2021-10-23 17:16:28,313 INFO LogEx [Test worker] Site is opened
+2021-10-23 17:17:00,302 INFO LogEx [Test worker] Driver is up
+2021-10-23 17:17:09,081 INFO LogEx [Test worker] Site is opened
+2021-10-24 16:48:26,868 INFO PreDz [Test worker] Driver is up
+2021-10-24 16:48:46,071 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 16:52:05,782 INFO PreDz [Test worker] Driver is up
+2021-10-24 16:52:13,432 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 16:53:14,273 INFO PreDz [Test worker] Driver is up
+2021-10-24 16:53:31,070 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 16:58:11,534 INFO PreDz [Test worker] Driver is up
+2021-10-24 16:58:33,565 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 16:59:02,001 INFO PreDz [Test worker] Driver is up
+2021-10-24 16:59:12,338 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 17:02:57,040 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:03:12,950 INFO PreDz [Test worker] Открыта страница отус
+2021-10-24 17:03:13,804 INFO PreDz [Test worker] Log in
+2021-10-24 17:03:16,655 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:04:38,140 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:04:46,306 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:10:24,983 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:10:36,297 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:10:37,184 INFO PreDz [Test worker] Log in
+2021-10-24 17:10:43,553 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:13:50,849 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:14:10,808 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:14:11,914 INFO PreDz [Test worker] Log in
+2021-10-24 17:14:51,543 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:17:30,543 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:17:37,807 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:17:39,514 INFO PreDz [Test worker] Log in
+2021-10-24 17:18:26,179 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:19:04,989 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:19:47,931 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:19:49,481 INFO PreDz [Test worker] Log in
+2021-10-24 17:20:38,601 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:23:09,581 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:23:27,549 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:23:28,782 INFO PreDz [Test worker] Log in
+2021-10-24 17:23:45,148 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:25:42,987 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:26:19,115 INFO LogEx [Test worker] Driver is up
+2021-10-24 17:26:49,098 INFO LogEx [Test worker] Site is opened
+2021-10-24 17:34:22,529 INFO LogEx [Test worker] драйвер поднят
+2021-10-24 17:35:37,302 INFO LogEx [Test worker] драйвер поднят
+2021-10-24 17:36:01,956 INFO LogEx [Test worker] драйвер поднят
+2021-10-24 17:39:37,096 INFO LogEx [Test worker] драйвер поднят
+2021-10-24 17:43:49,737 INFO LogEx [Test worker] драйвер поднят
+2021-10-24 17:45:37,416 INFO LogEx [Test worker] РґСЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-10-24 17:51:50,299 INFO LogEx [Test worker] РґСЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-10-24 17:53:56,963 INFO LogEx [Test worker] ������� ������
+2021-10-24 17:54:17,620 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:54:34,080 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:54:34,972 INFO PreDz [Test worker] Log in
+2021-10-24 17:54:45,245 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:55:20,685 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:55:34,385 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:55:35,552 INFO PreDz [Test worker] Log in
+2021-10-24 17:55:49,269 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:56:51,014 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:57:36,818 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:57:37,973 INFO PreDz [Test worker] Log in
+2021-10-24 17:57:56,789 INFO PreDz [Test worker] Go to LK
+2021-10-24 17:58:34,418 INFO PreDz [Test worker] Driver is up
+2021-10-24 17:58:52,751 INFO PreDz [Test worker] otus is opened
+2021-10-24 17:58:53,685 INFO PreDz [Test worker] Log in
+2021-10-24 17:59:07,069 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:00:11,213 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:00:54,229 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:00:55,314 INFO PreDz [Test worker] Log in
+2021-10-24 18:01:06,721 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:03:53,466 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:04:30,435 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:04:31,350 INFO PreDz [Test worker] Log in
+2021-10-24 18:04:57,946 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:07:20,744 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:07:41,063 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:07:41,863 INFO PreDz [Test worker] Log in
+2021-10-24 18:08:04,359 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:10:59,646 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:11:18,553 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:11:19,476 INFO PreDz [Test worker] Log in
+2021-10-24 18:11:29,431 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:12:16,514 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:12:55,957 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:12:57,085 INFO PreDz [Test worker] Log in
+2021-10-24 18:13:34,436 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:17:33,533 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:17:47,845 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:17:48,762 INFO PreDz [Test worker] Log in
+2021-10-24 18:18:11,212 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:27:34,495 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:27:45,466 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:27:47,057 INFO PreDz [Test worker] Log in
+2021-10-24 18:28:04,124 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:29:17,088 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:29:48,389 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:29:49,250 INFO PreDz [Test worker] Log in
+2021-10-24 18:29:59,061 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:35:18,178 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:35:24,186 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:35:25,077 INFO PreDz [Test worker] Log in
+2021-10-24 18:35:37,686 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:37:40,313 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:37:54,690 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:37:55,703 INFO PreDz [Test worker] Log in
+2021-10-24 18:38:11,165 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:41:11,938 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:41:20,424 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:41:21,881 INFO PreDz [Test worker] Log in
+2021-10-24 18:41:41,882 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:41:51,682 INFO PreDz [Test worker] Драйвер поднят
+2021-10-24 18:47:43,324 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:47:56,299 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:47:58,022 INFO PreDz [Test worker] Log in
+2021-10-24 18:48:06,842 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:48:56,269 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:49:16,098 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:49:17,428 INFO PreDz [Test worker] Log in
+2021-10-24 18:49:55,580 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:50:57,084 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:51:09,933 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:51:11,107 INFO PreDz [Test worker] Log in
+2021-10-24 18:51:29,788 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:53:16,785 INFO PreDz [Test worker] Driver is up
+2021-10-24 18:53:35,397 INFO PreDz [Test worker] otus is opened
+2021-10-24 18:53:36,415 INFO PreDz [Test worker] Log in
+2021-10-24 18:53:54,014 INFO PreDz [Test worker] Go to LK
+2021-10-24 18:59:52,111 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:00:03,445 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:00:04,396 INFO PreDz [Test worker] Log in
+2021-10-24 19:00:26,184 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:03:13,678 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:03:26,917 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:03:28,007 INFO PreDz [Test worker] Log in
+2021-10-24 19:03:36,280 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:05:50,763 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:06:29,273 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:06:30,376 INFO PreDz [Test worker] Log in
+2021-10-24 19:06:49,279 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:07:32,674 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:08:05,627 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:08:06,606 INFO PreDz [Test worker] Log in
+2021-10-24 19:08:19,750 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:09:58,931 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:10:28,943 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:10:31,183 INFO PreDz [Test worker] Log in
+2021-10-24 19:10:41,704 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:11:12,139 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:11:36,087 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:11:37,266 INFO PreDz [Test worker] Log in
+2021-10-24 19:11:59,526 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:12:50,635 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:14:20,468 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:14:21,450 INFO PreDz [Test worker] Log in
+2021-10-24 19:14:51,853 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:16:01,728 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:16:30,590 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:16:31,539 INFO PreDz [Test worker] Log in
+2021-10-24 19:17:35,532 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:18:12,613 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:19:27,130 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:19:28,012 INFO PreDz [Test worker] Log in
+2021-10-24 19:20:02,702 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:36:30,388 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:36:41,780 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:36:43,111 INFO PreDz [Test worker] Log in
+2021-10-24 19:37:01,245 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:37:25,973 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:38:26,968 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:38:29,873 INFO PreDz [Test worker] Log in
+2021-10-24 19:38:34,009 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:38:52,086 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:39:12,374 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:39:13,334 INFO PreDz [Test worker] Log in
+2021-10-24 19:39:35,990 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:47:19,568 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:47:36,178 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:47:37,295 INFO PreDz [Test worker] Log in
+2021-10-24 19:48:13,588 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:49:21,430 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:49:38,278 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:49:39,307 INFO PreDz [Test worker] Log in
+2021-10-24 19:51:10,631 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:55:57,230 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:56:19,432 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:56:20,674 INFO PreDz [Test worker] Log in
+2021-10-24 19:56:36,760 INFO PreDz [Test worker] Go to LK
+2021-10-24 19:57:06,754 INFO PreDz [Test worker] Driver is up
+2021-10-24 19:57:46,495 INFO PreDz [Test worker] otus is opened
+2021-10-24 19:57:47,512 INFO PreDz [Test worker] Log in
+2021-10-24 19:58:09,620 INFO PreDz [Test worker] Go to LK
+2021-10-24 20:09:37,988 INFO PreDz [Test worker] Driver is up
+2021-10-24 20:13:47,581 INFO PreDz [Test worker] otus is opened
+2021-10-24 20:13:48,895 INFO PreDz [Test worker] Log in
+2021-10-24 20:14:13,258 INFO PreDz [Test worker] Go to LK
+2021-10-25 22:17:36,475 INFO PreDz [Test worker] Driver is up
+2021-10-25 22:17:52,917 INFO PreDz [Test worker] otus is opened
+2021-10-25 22:17:53,760 INFO PreDz [Test worker] Log in
+2021-10-25 22:18:14,443 INFO PreDz [Test worker] Go to LK
+2021-10-25 22:19:36,080 INFO PreDz [Test worker] Driver is up
+2021-10-25 22:19:54,487 INFO PreDz [Test worker] otus is opened
+2021-10-25 22:19:56,450 INFO PreDz [Test worker] Log in
+2021-10-25 22:20:12,837 INFO PreDz [Test worker] Go to LK
+2021-10-25 23:01:02,689 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:01:52,046 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:07:56,239 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:11:03,295 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:13:13,250 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:30:41,841 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:32:55,019 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:34:25,855 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:49:24,241 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:50:36,532 INFO Dz3 [Test worker] Driver is up
+2021-10-25 23:57:49,113 INFO Dz3 [Test worker] Driver is up
+2021-10-26 00:07:10,109 INFO Dz3 [Test worker] Driver is up
+2021-10-26 00:07:21,984 INFO Dz3 [Test worker] Log in
+2021-10-26 00:07:22,016 INFO Dz3 [Test worker] [advcake_track_id=3f79ff0d-7653-95cc-3919-5fb02a76ad76; expires=Чт, 25 ноя 2021 12:07:12 MSK; path=/; domain=.otus.ru, oid=688cf1050590f112d30c2ebbcf327fed; expires=Пт, 25 окт 2024 12:07:21 MSK; path=/; domain=.otus.ru, sessionid=1leutpwlcqvipzmszhr7hd5sd72my6xt; expires=Пн, 24 янв 2022 12:07:11 MSK; path=/; domain=otus.ru, _ym_d=1635196032; expires=Ср, 26 окт 2022 12:07:12 MSK; path=/; domain=.otus.ru;secure;, _ym_visorc=w; expires=Вт, 26 окт 2021 12:37:12 MSK; path=/; domain=.otus.ru;secure;, _gid=GA1.2.664784986.1635196033; expires=Ср, 27 окт 2021 12:07:12 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=Пт, 25 окт 2024 12:07:21 MSK; path=/; domain=otus.ru, _ym_uid=1635196032436118187; expires=Ср, 26 окт 2022 12:07:12 MSK; path=/; domain=.otus.ru;secure;, _ym_isad=2; expires=Вт, 26 окт 2021 08:07:17 MSK; path=/; domain=.otus.ru;secure;, _gat=1; expires=Вт, 26 окт 2021 12:08:12 MSK; path=/; domain=.otus.ru, _ga=GA1.2.1136067998.1635196033; expires=Чт, 26 окт 2023 12:07:12 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1635196038115.294788520; expires=Пн, 24 янв 2022 12:07:21 MSK; path=/; domain=.otus.ru, advcake_session_id=ff51d655-69d3-2a4f-c4aa-e92196fe6b81; expires=Чт, 25 ноя 2021 12:07:12 MSK; path=/; domain=.otus.ru]
+2021-10-26 00:12:05,361 INFO Dz3 [Test worker] Driver is up
